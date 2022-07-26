@@ -1,0 +1,22 @@
+{
+  "name": "express-mongo",
+  "version": "1.0.0",
+  "description": "A template for setting up new projects with express & mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atj-craig/template--express-mongo.git"
+  },
+  "author": "Andrew Craig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atj-craig/template--express-mongo/issues"
+  },
+  "homepage": "https://github.com/atj-craig/template--express-mongo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
